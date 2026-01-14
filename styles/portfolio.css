@@ -16,6 +16,16 @@
 .color-orange{
     color: #FD6E0A;
 }
+.bton{
+    background-color: #FFF8F3;
+    border: 1px solid #FD6E0A;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FD6E0A;
+    cursor: pointer;
+}
 .btn{
     background-color: #FD6E0A;
     border: none;
@@ -25,6 +35,7 @@
     font-weight: bold;
     color: white;
     cursor: pointer;
+    margin-right: 30px;
 }
 .section-heading{
     max-width: 827px;
@@ -50,7 +61,7 @@ header{
     padding-top: 50px;
     background: url("../images/developer.png"), url("../images/header_bg.png"), #FFF8F3;
     background-repeat: no-repeat;
-    background-position: top left, bottom right;
+    background-position: 23px 38px, bottom right;
 }
 nav{
     width: 72%;
